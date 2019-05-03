@@ -1,0 +1,10 @@
+.container {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: darkcyan;
+  border: 2px darkcyan solid;
+}
+
+input {
+}
