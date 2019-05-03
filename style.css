@@ -6,5 +6,26 @@
   border: 2px darkcyan solid;
 }
 
-input {
+button btn btn-outline-dark {
+  background-color: black;
+  color: rgb(211, 24, 170);
+  border: 2px rgb(70, 4, 55);
+}
+
+button btn btn-outline-primary {
+  background-color: rgb(4, 4, 58);
+  color: rgb(22, 161, 27);
+  border: 2px rgb(3, 92, 6) solid;
+}
+
+button btn btn-outline-danger {
+  background-color: rgb(17, 4, 4);
+  color: rgb(218, 7, 7);
+  border: 2px rgb(99, 3, 3) solid;
+}
+
+button btn btn-outline-light {
+  background-color: whitesmoke;
+  color: rgb(38, 4, 112) solid;
+  border: 2px rgb(17, 3, 48) solid;
 }

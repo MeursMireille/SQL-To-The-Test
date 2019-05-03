@@ -27,7 +27,7 @@ session_start();
             'firstname' => $Firstname,
             'lastname' => $Name,
             'email' => $Email,
-            'password' => $Password,
+            'password' => $Password
           ];
 
            $sql = "INSERT INTO users(firstname,lastname,username,email,password)VALUES(:firstname,:lastname,:username,:email,:password)";
