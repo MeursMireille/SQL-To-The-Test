@@ -9,8 +9,13 @@
 * Move on to something else ;) 
 
 *Explanation* 
-  * This exercise will be one where we, as a group, go over instruction per instruction to finalize a register / login app with updating and account deletion capabilities. 
-  * We will write this in a scripting style, just so we can focus on the matters at hand, namely: **MySQL interaction.**  
-  * Setup Create a repository SQL-To-The-Test Create a readme.md in your project folder and write in this readme, the three most difficult things about mysql for you. 
-  * Push to repository Wait for further instructions
+* This exercise will be one where we, as a group, go over instruction per instruction to finalize a register / login app with updating and account deletion capabilities. 
+* We will write this in a scripting style, just so we can focus on the matters at hand, namely: **MySQL interaction.**  
+  
+*Setup* 
+* Create a repository SQL-To-The-Test 
+* Create a readme.md in your project folder. 
+* Push to repository Wait for further instructions
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
